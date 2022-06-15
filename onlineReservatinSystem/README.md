@@ -18,8 +18,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
 
 ## Follow the steps to run the file
-~ Download this repo
-~ install JDK  for run the Java Project `https://www.oracle.com/java/technologies/downloads/#jdk18-windows ` 
-~ set the environment path to run from any location of PC
-~ install mySQL connector J `https://dev.mysql.com/downloads/connector/j/ `
-~ Open your  favorite IDE and create Java project and also add mySQL connector J in the referenced library folder from your created Java project directory. 
+- Download this repo
+- install JDK  for run the Java Project `https://www.oracle.com/java/technologies/downloads/#jdk18-windows ` 
+- set the environment path to run from any location of PC
+- install mySQL connector J `https://dev.mysql.com/downloads/connector/j/ `
+- Open your  favorite IDE and create Java project and also add mySQL connector J in the referenced library folder from your created Java project directory. 
